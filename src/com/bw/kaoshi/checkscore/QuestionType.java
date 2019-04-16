@@ -1,5 +1,6 @@
 package com.bw.kaoshi.checkscore;
 
+
 public enum QuestionType {
 
 	
